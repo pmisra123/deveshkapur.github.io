@@ -56,8 +56,6 @@ layout: page
   Journal of Urban Economics, 64: 258-269, 2008.  
   With Ajay Agrawal and John McHale.
 
-(Add more papers if desired by copying from the CV; this list focuses on core work across years) [file:3]
-
 ---
 
 ## Refereed Book Chapters

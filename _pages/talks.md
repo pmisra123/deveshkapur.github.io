@@ -1,0 +1,111 @@
+---
+title: "Talks"
+permalink: /talks/
+layout: page
+---
+
+## Talks & Invited Presentations
+
+- November 22, 2019: Seminar, "When Does the Indian State Succeed and Fail," University of Michigan
+- November 15, 2019: Conference on State of India’s Institutions, Presentation and Discussant, Yale University
+- September 25, 2019: Korea in Asia Conference, SAIS, "Trade, Investment and Migration"
+- September 2, 2019: APSA, "Technology and Female Labor Force Participation: Understanding the Impact of Electricity in Patna, India"
+- July 17, 2019: Seminar, "When Does the Indian State Succeed and Fail," Center for Policy Research, New Delhi
+- July 16, 2019: Seminar, "The Developmental State in India," Lal Bahadur Shastri National Academy of Administration, Dehra Dun, India
+- July 12, 2019: Book Panel, "Regulation in India," New Delhi
+- April 27, 2017: Book Talk, "The Other One Percent: Indians in America," Center for Emerging Markets, D’Amore McKim School of Business, Northeastern University
+- April 24, 2017: Book Talk, "The Other One Percent: Indians in America," Watson Institute for International and Public Affairs, Brown University
+- March 6, 2017: Seminar, "The Developmental State in India," Lal Bahadur Shastri National Academy of Administration, Dehra Dun, India
+- February 21, 2017: Book Talk, "The Other One Percent: Indians in America," Kellogg Institute for International Studies, Notre Dame University
+- February 15, 2017: Seminar, "The Economy of West Bengal," Department of Urban Studies and Planning, MIT
+- February 8, 2017: Global Faculty Series, Book Talk, "The Other One Percent: Indians in America," Temple University
+- February 13, 2017: Book Talk, "The Other One Percent: Indians in America," Columbia University, NY
+- February 6, 2017: Book Talk, "The Other One Percent: Indians in America," UC Santa Barbara
+- February 1, 2017: Book Talk, "The Other One Percent: Indians in America," UC Los Angeles
+- January 17, 2017: Book Talk, "The Other One Percent: Indians in America," Centre for Policy Research, New Delhi
+- November 30, 2016: Seminar, "Urbanization in India: Evidence from NCR Household Survey," Perry World House, University of Pennsylvania
+- November 18, 2016: Book Talk, "The Other One Percent: Indians in America," TiE, Silicon Valley, Santa Clara, CA
+- November 17, 2016: Seminar, "The Dilemmas of Higher Education in India," UC Berkeley
+- November 14, 2016: Seminar, "The Dilemmas of Higher Education: India in Comparative Perspective," The New School, New York
+- July 14, 2016: Seminar, "India and Multilateralism," Lal Bahadur Shastri National Academy of Administration, Dehra Dun, India
+- March 2016: Keynote, "The Dilemmas of Higher Education: India in Comparative Perspective," NUEPA, New Delhi
+- November 13, 2015: Book Talk, "The Other One Percent: Indians in America," Brown-Harvard-MIT Joint Seminar, South Asia Institute, Harvard
+- July 2015: Lecture, "The Suffocating Embrace? The State in Independent India," Nehru Memorial Museum & Library, New Delhi
+- March 28, 2015: Panel, "Public Opinion in Indian Foreign Policy," Association of Asian Studies, Chicago
+- October 13–14, 2014: Presentation, "Deepening the Japan-India Partnership," UN University, Tokyo
+- August 30, 2014: APSA Meeting, "Politics After the Digital Revolution," Washington, D.C.
+- April 4, 2014: Lecture, "Indian Americans: The Life and Work of a New Immigrant Community," University of Pennsylvania
+- May 30–31, 2014: Talk, "Higher Education in China and India," National University of Singapore
+- May 29, 2014: Seminar, "Why Has Corruption Grown in India," Lee Kuan Yew School of Public Policy, Singapore
+- April 16, 2014: Lecture, "Indian Americans: The Life and Work," Asia Studies Program, Boston University
+- February 18, 2014: Seminar, "The Brittle Forge: Higher Education and India's Human Capital," South Asia Institute, Harvard
+- February 7, 2014: Workshop, "Can Anti-Poverty Programs Reduce Conflict," Princeton University
+- October 4–5, 2013: Conference, "Why Has Corruption Grown in India," Princeton
+- July 22–26, 2013: Bellagio Center Conference, "Building an Indian State for the 21st Century," Italy
+- March 22, 2013: Conference, "The Indian University in Comparative Perspective," OP Jindal Global University, India
+- February 6–7, 2013: Colloquia, "Markets and Social Institutions: India’s Dalits," Yale University
+- December 17, 2012: Policy Forum, "Global Governance," UNDP, Beijing
+- October 25, 2012: Keynote, "Glance Back, Drive Forward: Reflections on the World Bank's History," World Bank, Washington, D.C.
+- September 18, 2012: Seminar, "Rethinking Inequality: Dalits in the Market Reform Era," Center for Global Development
+- August 27, 2012: Workshop, "Geoeconomics vs. Geopolitics," Australia National University, Canberra
+- April 28, 2012: Symposium, "The Capability Trap of the Indian State," New School, New York
+- April 9–10, 2012: Symposium, "India's Growth Prospects," Carnegie Endowment, DC
+- April 6, 2012: Seminar, "Markets, Politics, & Social Institutions: Dalits," Harvard University
+- March 29, 2012: Seminar, "The Maoist Conflict in India," University of Pennsylvania (also presented at Stanford and Berkeley)
+- March 23, 2012: Seminar, "Studying Contemporary India," University of Virginia
+- February 24, 2012: Workshop, "India and International Financial Institutions," Centre for Policy Research, New Delhi
+- January 13, 2012: Symposium, "Indian Higher Education," St. John's College, Oxford
+- November 18–23, 2011: Symposium, "Creativity and Innovation," Australian National University, Canberra
+- November 7, 2011: Symposium, "Migration," MIT
+- September 26–27, 2011: Conference, "Employment and Skills: The Indian Case," NYU Stern
+- July 28–29, 2011: Paper, "The Supreme Court and Higher Education," Centre for Policy Research, New Delhi
+- July 22, 2011: Seminar, "Remittances and Rashomon," Indian Statistical Institute, New Delhi
+- July 21, 2011: Seminar, "Remittances and Rashomon," Reserve Bank of India, Mumbai
+- May 6, 2011: Keynote, "Diasporas and Development," The New School
+- April 29, 2011: Featured Speaker, "Leadership in India," Harvard Asia Vision 21 Conference
+- April 15, 2011: Talk, "Higher Education in Developing Countries," Instituto del Peru, San Isidro
+- March 15, 2011: Seminar, "The Political Impact of International Migration from India," Case Western Reserve
+- October 20, 2010: Book launch, "Diaspora, Development & Democracy," Center for Global Development
+- May 6–9, 2010: Paper, "Does Spatial Mobility Lead to Social Mobility? Democracy and Migration," Brown University
+- January 22–23, 2010: Conference, "Canada in 2015: A View From Outside," University of Ottawa
+- January 14–18, 2010: Conference, "One Way or Many? Varieties of Capitalism," Global Development Network, Prague
+- December 4–5, 2009: Paper, "Can the Privatization of Foreign Aid Enhance Accountability?" NYU Law School
+- May 26, 2009: Seminar, "Beyond the Fence: Immigration and Remittances," Harvard and Center for Global Development
+- May 22–23, 2009: Conference, "The Middle Class and the Professions," Princeton
+- May 13, 2009: Lecture, "The Domestic Impact of International Migration from India," UC Santa Cruz
+- April 22, 2009: Conference, "Global Financial Crisis: Asian Perspective," Center for Global Development/SAIS
+- April 21, 2009: Lecture, "The Global Financial Crisis & South Asia," World Bank, Washington D.C.
+- April 2, 2009: Conference, "The Political Impact of International Migration," NYU Wagner
+- March 25, 2009: Seminar, "The Political Impact of International Migration," Princeton
+- December 3–5, 2008: Dalit Studies Conference, UPenn, paper on Household Survey of Dalits in UP
+- November 6, 2008: Seminar, "Higher Education in India," TIAA-CREF, NY
+- October 23, 2008: Seminar, "Globalization and the Paradox of Indian Democracy," Princeton
+- October 21, 2008: Seminar, "India and the World Bank," CUNY
+- October 2–4, 2008: Paper, "Higher Education in India," NBER, Woodstock, VT
+- September 30, 2008: Seminar, "Mortgaging the Future: Indian Higher Education," Yale
+- September 27, 2008: Workshop, "Medical Tourism," Harvard
+- May 8, 2008: Seminar, "Globalization and the Paradox of Indian Democracy," University of Washington
+- May 7, 2008: Workshop, "Higher Education in Developing Countries," University of Washington
+- April 28, 2008: Keynote, "Impact of Migration from India," Rutgers
+- April 25, 2008: Paper, "Politics and Political Economy of Modern India," Georgetown
+- April 18–19, 2008: Conference, "Soft Power or Soft Underbelly," UPenn
+- April 10, 2008: Global Development Initiative Forum, Keynote, "Higher Education in Developing Countries," UPenn
+- January–March 2008: Seminar, "Political Impact of International Migration," SSRC, NY
+- November 30–December 1, 2007: Conference, "Political Economy of Reform in India," Harvard
+- July 2007: Policy Forum, "Higher Education in India," NCAER-Brookings, New Delhi
+- November 2006: Conference, "India's Human Capital Challenges," Carleton University, Ottawa
+- August 30–September 3, 2006: APSA Meeting, "Media Inequality in India," Philadelphia
+- March 2006: Technical Meeting, "Alternatives to the IMF," Geneva
+- February 2006: Conference, "Accountability of International Organizations," Princeton
+
+---
+
+## Panelist & Discussant
+
+The CV lists dozens of panel appearances as moderator, commentator, or conference chair at:
+- Yale University, Harvard, Princeton, UPenn, MIT, Brown, Notre Dame
+- World Bank, UN, OECD, Brookings Institution
+- APSA, Association of Asian Studies
+- Lee Kuan Yew School, Bombay/Mumbai conferences, NCAER, World Urban Forum, CERI Paris, etc.
+- Multiple high-level workshops and commissions (Finance, Governance, Migration, Development, Climate, Security, Institutional Reform)
+- Many occasions as book manuscript discussant

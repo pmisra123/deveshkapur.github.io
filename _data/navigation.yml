@@ -14,8 +14,8 @@ main:
   - title: "Papers"
     url: /papers/  
 
-  - title: "Columns"
-    url: /columns/
+  # - title: "Columns"
+  # url: /columns/
 
   - title: "Teaching"
     url: /teaching/    

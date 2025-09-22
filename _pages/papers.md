@@ -4,7 +4,7 @@ permalink: /papers/
 layout: page
 ---
 
-## Refereed Journal Articles
+# Refereed Journal Articles
 
 - **Agricultural Federalism. New Facts, Constitutional Vision**  
   Economic & Political Weekly Vol 57 (36): 39-48, 2022.  
@@ -220,7 +220,7 @@ layout: page
 
 ---
 
-## Refereed Book Chapters
+# Refereed Book Chapters
 
 - **Reimagining Merit in India: Cognition and Affirmative Action**  
   In Tarun Khanna and Michael A. Szonyi (eds) Making Meritocracy in China and India, Oxford University Press, 2022.  

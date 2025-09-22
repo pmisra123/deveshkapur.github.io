@@ -5,4 +5,4 @@ permalink: /cv/
 
 # Devesh Kapur
 
-[Download full CV (PDF)](/files/Devesh-Kapur-CV-Jan-2023.pdf)
+[Download full CV (PDF)](/files/cv_jan_2023.pdf)
